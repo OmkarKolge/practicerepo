@@ -21,6 +21,7 @@ var onDefault=function(req, res){
                     " <li>Mentoring for skill building</li>"+
                     " <li>Workshops</li>"+
                     " <li>Online Course</li>"+
+                    " <li>Rutuja Omkar Kolge</li>"+
                     " <li>Corporate Training</li>"+
              "</ol>");
 };
